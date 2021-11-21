@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.main {
+  margin: auto;
+
+  width: 500px;
+}
+.cal,
+.price {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  font-size: 25px;
+}
+p {
+  font-size: 25px;
+}
+img {
+  width: 500px;
+  border-radius: 10px 10px 0px 0px;
+}
